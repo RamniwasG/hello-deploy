@@ -1,0 +1,1 @@
+wsgi: hello_deploy.wsgi.application
