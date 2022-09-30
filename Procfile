@@ -1,1 +1,1 @@
-web: gunicorn hello_deploy.wsgi --log-file -
+web: gunicorn hello_deploy.wsgi.application
