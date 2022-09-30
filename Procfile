@@ -1,1 +1,1 @@
-web: gunicorn hello_deploy.wsgi.application
+web: gunicorn hello_deploy.wsgi:application
