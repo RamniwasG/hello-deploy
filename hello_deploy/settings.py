@@ -25,7 +25,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'hello-msg-deploy.herokuapp.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
